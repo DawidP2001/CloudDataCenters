@@ -1,0 +1,31 @@
+Project Report
+
+Objective: The goal of this project is to delve into the latest advancements and emerging trends in the field of cloud computing. You are expected to identify and research a topic within cloud computing and present your findings in a comprehensive report.
+
+Requirements: Choose a specific aspect of cloud computing that interests you and has not been covered extensively in the course material. This could be a cutting-edge technology, a novel application, or a significant development in cloud computing practices (e.g., https://landscape.cncf.io). 
+
+Submission:
+
+Your final report is required to be written in the same style as an IEEE conference paper (both word and Latex templates attached), and written in a way that your classmates could understand. Your report should be 4-6 pages (excluding references). 
+
+If your project generates any code, please:
+1. Do include all project code written or adapted by you.
+2. Do NOT include the whole source code for off-the-shelf packages that you used without adapting.
+
+Due Date: Please submit your report before 11:59 PM, May 18th (Sunday) to your github repo.
+
+Your project report will be graded holistically, taking into account many criteria: amount of work put into the project, the relevance and originality of the topic, performance of your methods, complexity of the techniques you used, the accuracy of technical explanations, thoroughness of your evaluation, analysis quality, writeup quality, etc.
+
+Structure: Consider using the following section structure, feel free if you would like to use a different structure.
+
+Introduction: Motivation, background, your contributions, etc.
+
+Literature review: Related work.
+
+System architecture
+
+[Experiment setup and performance evaluation] or [Use cases] 
+
+[Discussion] or [Limitations and Challenges]
+
+Conclusion: Summarize the key points of your report and provide recommendations for further research or practical applications of your findings.
