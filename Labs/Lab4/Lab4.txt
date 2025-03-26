@@ -1,0 +1,5 @@
+Please follow the instructions and the complete the tasks listed  here:
+
+https://istio.io/latest/docs/setup/getting-started/
+
+Please collect screenshots into a word document and commit it to your github link.

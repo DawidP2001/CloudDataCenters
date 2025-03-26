@@ -1,0 +1,3 @@
+Please follow the instructions here: https://kubernetes.io/docs/tutorials/kubernetes-basics/
+
+Please write a document with screenshots and notes for major steps.

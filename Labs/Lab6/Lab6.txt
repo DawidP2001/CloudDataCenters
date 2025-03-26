@@ -1,0 +1,15 @@
+This lab exercise will give you hands-on experience with Knative for
+building, deploying, and managing serverless, cloud-native applications on Kubernetes.
+
+For the following three topics, please submit a word or pdf document containing your compiled screenshots for the key steps.  
+
+[Knative Functions]
+https://knative.dev/docs/getting-started/about-knative-functions/
+
+Comments: 1. Use local registry;  2. Skip the "Deploying a function" part
+
+[Knative Serving]
+https://knative.dev/docs/getting-started/first-service/
+
+[Knative Eventing]
+https://knative.dev/docs/getting-started/getting-started-eventing/

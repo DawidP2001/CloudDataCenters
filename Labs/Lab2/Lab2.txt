@@ -1,0 +1,13 @@
+Lab 2: Running Containers
+
+Please follow the tutorials below. Write a document with screenshots and notes, upload it to your github repo: 
+
+https://docs.docker.com/get-started/docker-concepts/running-containers/publishing-ports/
+https://docs.docker.com/get-started/docker-concepts/running-containers/overriding-container-defaults/
+https://docs.docker.com/get-started/docker-concepts/running-containers/persisting-container-data/
+https://docs.docker.com/get-started/docker-concepts/running-containers/sharing-local-files/
+https://docs.docker.com/get-started/docker-concepts/running-containers/multi-container-applications/
+
+Recommendations:
+https://docs.docker.com/desktop/install/windows-install/
+https://docs.docker.com/desktop/wsl/
